@@ -6,3 +6,5 @@ no olvidar ejecutar los modulos de node
 npm install
 
 ````
+
+### ejemplo node app -d caracas
